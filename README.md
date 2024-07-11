@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kumyuva" alt="kumyuva" />
-  </a> 
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/yuvrajkumar" target="blank">
@@ -49,4 +43,16 @@
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumyuva&" alt="kumyuva" />
+</p>
+
+---
+
+<h3 align="left">GitHub Stats:</h3>
+
+<p align="left">
+  <img src="https://img.shields.io/github/stars/kumyuva?style=flat-square" alt="GitHub stars">
+  <img src="https://img.shields.io/github/followers/kumyuva?style=flat-square" alt="GitHub followers">
+  <img src="https://img.shields.io/github/issues/kumyuva?style=flat-square" alt="GitHub issues">
+  <img src="https://img.shields.io/github/issues-pr/kumyuva?style=flat-square" alt="GitHub pull requests">
+  <img src="https://img.shields.io/github/reviews/kumyuva?style=flat-square" alt="GitHub reviews">
 </p>
